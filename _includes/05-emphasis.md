@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Ingénieur sérieux mais pas trop 😆**
+
+*J'adore les voyages, casse-têtes, séries et films*
