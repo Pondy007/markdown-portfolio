@@ -1,1 +1,1 @@
-[LinkedIn Vivine Assokane]https://www.linkedin.com/in/vivine-assokane/
+[LinkedIn Vivine Assokane](https://www.linkedin.com/in/vivine-assokane/)
